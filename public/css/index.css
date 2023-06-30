@@ -1,9 +1,9 @@
-.lesson-four-task-one:hover {
+.lesson-four-task-one .btn:hover {
     color: red;
     background-color: yellow;
 }
 
-.lesson-four-task-two h1:hover {
+.lesson-four-task-two a:hover ~ h1 {
     background-color: green;
 }
 
